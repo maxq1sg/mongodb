@@ -1,0 +1,19 @@
+{
+  "name": "mongod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2",
+    "nodemon": "^2.0.13",
+    "redis": "^3.1.2",
+    "utils": "^0.3.1"
+  }
+}
